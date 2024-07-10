@@ -1,0 +1,56 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Введение}{3}{section*.1}%
+\contentsline {section}{\numberline {1}Анализ предметной области}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Актуальность темы}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Методы сбора данных}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Обработка и анализ данных}{8}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Методы предобработки данных}{9}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Методы визуализации данных}{10}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Методы машинного обучения}{12}{subsubsection.1.3.3}%
+\contentsline {subsubsection}{\numberline {1.3.4}Персонализация услуг и предложений}{17}{subsubsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.4}Расширенное техническое задание}{18}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Основание для разработки}{18}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Цель и задача}{18}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Наименование и область применения}{19}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Требования к функциональности}{19}{subsubsection.1.4.4}%
+\contentsline {subsubsection}{\numberline {1.4.5}Требования к нейронной сети}{19}{subsubsection.1.4.5}%
+\contentsline {subsubsection}{\numberline {1.4.6}Требования к бланку}{20}{subsubsection.1.4.6}%
+\contentsline {subsubsection}{\numberline {1.4.7}Требования к программной документации}{20}{subsubsection.1.4.7}%
+\contentsline {subsubsection}{\numberline {1.4.8}Технико-экономические характеристики}{20}{subsubsection.1.4.8}%
+\contentsline {section}{\numberline {2}Разработка структуры системы}{22}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Разработка структуры компонента для сбора информации}{23}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Определение ключевых функций}{23}{subsubsection.2.1.1}%
+\contentsline {paragraph}{\numberline {2.1.1.1}Сбор и обработка данных}{23}{paragraph.2.1.1.1}%
+\contentsline {paragraph}{\numberline {2.1.1.2}\-Распознавание номеров автомобилей}{25}{paragraph.2.1.1.2}%
+\contentsline {paragraph}{\numberline {2.1.1.3}Поиск модели автомобиля}{25}{paragraph.2.1.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.2}Структура модуля}{25}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Анализатор бланков}{28}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Поиск модели автомобиля}{29}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}Распознование номера автомобиля}{34}{subsubsection.2.1.5}%
+\contentsline {paragraph}{\numberline {2.1.5.1}Обнаружение положения номерного знака}{34}{paragraph.2.1.5.1}%
+\contentsline {paragraph}{\numberline {2.1.5.2}Определение номера автомобиля}{35}{paragraph.2.1.5.2}%
+\contentsline {paragraph}{\numberline {2.1.5.3}Алгоритм компонента}{37}{paragraph.2.1.5.3}%
+\contentsline {subsection}{\numberline {2.2}Разработка структуры компонента для обучения нейросети и предсказания интересов}{38}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Определение ключевых функций}{38}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Выбор метода}{42}{subsubsection.2.2.2}%
+\contentsline {paragraph}{\numberline {2.2.2.1}Описание искусственных нейронных сетей}{42}{paragraph.2.2.2.1}%
+\contentsline {paragraph}{\numberline {2.2.2.2}Наивный байесовский классификатор}{45}{paragraph.2.2.2.2}%
+\contentsline {paragraph}{\numberline {2.2.2.3}Логистическая регрессия}{47}{paragraph.2.2.2.3}%
+\contentsline {paragraph}{\numberline {2.2.2.4}Обоснование выбора метода}{48}{paragraph.2.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.3}Структура модуля}{49}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Алгоритм обучения нейронной сети}{51}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Описаение структуры нейронной сети}{53}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.6}Разработка модуля}{55}{subsubsection.2.2.6}%
+\contentsline {section}{\numberline {3}Программная реализация}{58}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Программная реализация модуля для сбора данных}{58}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Анализ бланков}{59}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Поиск модели авто}{60}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Распознавание номера}{61}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Программная реализация модуля для обучения нейросети и предсказания интересов}{63}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Обучение нейросети}{63}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Реализация модуля}{65}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Результат}{67}{subsection.3.3}%
+\contentsline {section}{Заключение}{73}{section*.46}%
+\contentsline {section}{Приложение А. Авторская справка}{75}{section*.47}%
+\contentsline {section}{Приложение Б. Листинг кода}{76}{section*.48}%
+\contentsline {section}{Приложение В. Библиографический список}{101}{section*.49}%
